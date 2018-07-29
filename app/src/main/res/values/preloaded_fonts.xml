@@ -2,6 +2,6 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/muli_bold</item>
-        <item>@font/muli_extralight</item>
+        <!--<item>@font/muli_extralight</item>-->
     </array>
 </resources>
